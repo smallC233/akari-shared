@@ -1,7 +1,232 @@
 {
   "format": 1,
-  "exportedAt": "",
+  "exportedAt": "2026-10-08T16:02:07.107Z",
   "scriptVersion": "1.1.0",
-  "count": 0,
-  "conversions": {}
+  "count": 28,
+  "conversions": {
+    "1": {
+      "src": "manual",
+      "url": "https://puzz.link/p?akari/7/7/..i1.bibgbi0.bibg.k..bg1./",
+      "cols": 7,
+      "rows": 7,
+      "gridText": "x x - - - 1 x\n1 - - - - - 1\n- - - 1 - - -\n- - 0 x 1 - -\n- - - 1 - - -\nx - - - - - x\nx 1 - - - 1 x",
+      "updated": "2026-10-02T18:17:34.021Z"
+    },
+    "4": {
+      "src": "janko",
+      "url": "https://puzz.link/p?akari/18/12/hb.h.g.cg.hc.gaj..gdl.hbk.gb.o2..bg5ai.i.n.gbv6dlcgbi7cg..1.o.h.g.mcbl.g0bj.gc.hbg..g.h.hb",
+      "cols": 18,
+      "rows": 12,
+      "source": "https://www.janko.at/Raetsel/Akari/140.a.htm",
+      "updated": "2026-10-02T18:05:54.985Z"
+    },
+    "5": {
+      "src": "manual",
+      "url": "https://puzz.link/p?akari/14/24/l1.m..bj11bbg.h.i.h.j..jbubdbai.ch..j.p.ib.hcbhbg.dg.idah.hbj.h.pacj.hch.hbg.i..i.j.h.hc.ianbh1.j..k.hbc.w.j..jbbg.hbg.h..aj.2.m1.l",
+      "cols": 14,
+      "rows": 24,
+      "gridText": "- - - - - - 1 x - - - - - -\n- x x 1 - - - - - - 1 1 1 -\n- 1 - - - x - - x - - - x -\n- x - - - - x x - - - - 1 -\n- - - - - - - - - - - - - -\n- - 1 - - 3 - - 1 - - 0 - -\n- - - x 2 - - - - x x - - -\n- x - - - - - - - - - - x -\n- - 1 - - x - - 2 - - 1 - -\n- - 1 - - - x 3 - - - x - -\n- 3 - - 0 - - - - x - - 1 -\n- - - - - x - - x - - - - -\n- - - - - 0 - - 2 - - - - -\n- x - - 2 - - - - x - - 1 -\n- - x - - - x x - - - x - -\n- - x - - x - - 2 - - x - -\n- 0 - - - - - - - - - - 1 -\n- - - 1 x - - - - x x - - -\n- - x - - 1 - - 2 - - x - -\n- - - - - - - - - - - - - -\n- x - - - - x x - - - - 1 -\n- 1 - - - x - - 1 - - - x -\n- x x 0 - - - - - - x 2 x -\n- - - - - - 1 x - - - - - -",
+      "updated": "2026-10-05T17:08:31.101Z"
+    },
+    "6": {
+      "src": "janko",
+      "url": "https://puzz.link/p?akari/10/10/g.i6bnan.gd.m.i7d8bg.mc6.pcn6bgc",
+      "cols": 10,
+      "rows": 10,
+      "source": "https://www.janko.at/Raetsel/Akari/171.a.htm",
+      "updated": "2026-10-03T14:38:47.016Z"
+    },
+    "7": {
+      "src": "janko",
+      "url": "https://puzz.link/p?akari/24/14/jcg.h7.i11.gbbo.l.ibi..i.m.kah.h05ch.p.c..h.h.g.g.h75.h..ga2..h..g.gdi.bg.ibhah..h2.jbhbg.i2.k.g60.h1.b.g2.h75c7.gcb..h.an.j.g..hbhbibkcg2aibgbj.q.h6..ag6.hbg.j",
+      "cols": 24,
+      "rows": 14,
+      "source": "https://www.janko.at/Raetsel/Akari/279.a.htm",
+      "updated": "2026-10-05T17:18:12.278Z"
+    },
+    "8": {
+      "src": "manual",
+      "url": "https://puzz.link/p?akari/10/10/bl6.gbo9.i.g.q.g.j.g.q.g.i.gco8.gblb",
+      "cols": 10,
+      "rows": 10,
+      "gridText": "1 - - - - - - - - 1\n- x - 1 - - - - - -\n- - - - - 4 - x - -\n- x - x - - - - - -\n- - - - - x - x - -\n- - x - x - - - - -\n- - - - - - x - x -\n- - x - 2 - - - - -\n- - - - - - 3 - x -\n1 - - - - - - - - 1",
+      "updated": "2026-10-05T17:44:33.814Z"
+    },
+    "9": {
+      "src": "manual",
+      "url": "https://puzz.link/p?akari/10/10/lckbkbhccub.wcbhck.mbj",
+      "cols": 10,
+      "rows": 10,
+      "gridText": "- - - - - - 2 - - -\n- - - - 1 - - - - -\n- - 1 - - - - 2 - -\n2 - - - - - - - - -\n- - - - - - - - 1 -\n- x - - - - - - - -\n- - - - - - - - - 2\n- - 1 - - - - 2 - -\n- - - - - x - - - -\n- - - 1 - - - - - -",
+      "updated": "2026-10-05T17:47:42.412Z"
+    },
+    "10": {
+      "src": "manual",
+      "url": "https://puzz.link/p?akari/9/9/.m.haga.i.i.h.i.lajbgc.i.i.hbgc.m./",
+      "cols": 9,
+      "rows": 9,
+      "gridText": "x - - - - - - - x\n- - 0 - - - 0 - -\nx - - - x - - - x\n- - x - - - x - -\n- - - - 0 - - - -\n- - 1 - - - 2 - -\nx - - - x - - - x\n- - 1 - - - 2 - -\nx - - - - - - - x",
+      "updated": "2026-10-05T17:50:10.979Z"
+    },
+    "11": {
+      "src": "janko",
+      "url": "https://puzz.link/p?akari/18/12/ahai..ichbi.cgah.h62.bg.j.gbi.hc..g0aic.ibi6.bg.jbh..j.j.i..g.kcgcbi.6.b.hdi6.j.i.1.g.hbhcg.bibhbg0bi.j./",
+      "cols": 18,
+      "rows": 12,
+      "source": "https://www.janko.at/Raetsel/Akari/150.a.htm",
+      "updated": "2026-10-05T18:00:21.126Z"
+    },
+    "12": {
+      "src": "manual",
+      "url": "https://puzz.link/p?akari/13/13/t6657.gbs665.g.gat7.i6cl.n5cg6ct66666bs66.g.g.gbr",
+      "cols": 13,
+      "rows": 13,
+      "gridText": "- - - - - - - - - - - - -\n- 1 - 1 - 0 - 2 - x - 1 -\n- - - - - - - - - - - - -\n- 1 - 1 - 0 - x - x - 0 -\n- - - - - - - - - - - - -\n- - 2 - x - - - 1 - 2 - -\n- - - - - - x - - - - - -\n- - 0 - 2 - - - 1 - 2 - -\n- - - - - - - - - - - - -\n- 1 - 1 - 1 - 1 - 1 - 1 -\n- - - - - - - - - - - - -\n- 1 - 1 - x - x - x - 1 -\n- - - - - - - - - - - - -",
+      "updated": "2026-10-05T17:59:55.961Z"
+    },
+    "13": {
+      "src": "janko",
+      "url": "https://puzz.link/p?akari/24/14/g.o.i..q7.h7.h7.6.i6ag7.h.g.k...g10.5.j.6.bga.ag.gci..m.kbjag71.j1..r.m.h.gc.g.hbkbp...j17.icjdi.m1.k.g.i..h.i..g.ah5....g1..k6e.g.i5.i.g3.g.h.g.h8.q.cg.o.g",
+      "cols": 24,
+      "rows": 14,
+      "source": "https://www.janko.at/Raetsel/Akari/044.a.htm",
+      "updated": "2026-10-05T19:09:41.563Z"
+    },
+    "14": {
+      "src": "janko",
+      "url": "https://puzz.link/p?akari/24/14/..gcj5.n.g.g0.h05.m.h07..n2..mbk...nchba7.j.gaibqbh..g.o5ckbm6.g1.g.gbmbk.g.o.g..j.sci6.j6.hbahbl2..mbk01.n1.g..hak.g2.h35.gcl.gaj.g../",
+      "cols": 24,
+      "rows": 14,
+      "source": "https://www.janko.at/Raetsel/Akari/209.a.htm",
+      "updated": "2026-10-06T08:27:47.054Z"
+    },
+    "15": {
+      "src": "manual",
+      "url": "https://puzz.link/p?akari/10/10/m.iaj9b7..kch1.i.t.i..jbi..g.h7.l.idk",
+      "cols": 10,
+      "rows": 10,
+      "gridText": "- - - - - - - x - -\n- 0 - - - - - - 4 -\n1 - - 2 - x x - - -\n- - 2 - - - - 1 x -\n- - x - - - - - - -\n- - - - - - - x - -\n- x x - - - - 1 - -\n- - - x x - x - - 2\n- x - - - - - - x -\n- - 3 - - - - - - -",
+      "updated": "2026-10-06T08:53:12.470Z"
+    },
+    "16": {
+      "src": "manual",
+      "url": "https://puzz.link/p?akari/10/18/g1.iai1ahah..h.ia..i.k1bj.h0ch2bg.b1.k.g1.i.nbg16bi..h1.i.ah1.h.l.bibg.b.ib1bhbh1bi.i1.g",
+      "cols": 10,
+      "rows": 18,
+      "gridText": "- 1 x - - - 0 - - -\n- - 1 0 - - - - 0 -\n- - - x x - - x - -\n- 0 - - x x - - - x\n- - - - - 1 1 - - -\n- - - x - - 0 2 - -\n- - 2 1 - - - x 1 -\n- 1 x - - - - - x -\n1 x - - - x - - - -\n- - - - 1 - - - 1 1\n- 1 - - - - - x x -\n- 1 x - - - x 0 - -\n- - 1 x - - x - - -\n- - - x 1 - - - - -\n1 - - - x 1 - - x -\n- - 1 - - 1 1 - - -\n- 1 - - - - 1 1 - -\n- - - x - - - 1 x -",
+      "updated": "2026-10-06T18:23:19.814Z"
+    },
+    "17": {
+      "src": "janko",
+      "url": "https://puzz.link/p?akari/10/10/i.i.jdgcg.h.jcdi.gcx6bi.hchbcg.ichbgbg",
+      "cols": 10,
+      "rows": 10,
+      "source": "https://www.janko.at/Raetsel/Akari/185.a.htm",
+      "updated": "2026-10-06T12:56:46.935Z"
+    },
+    "18": {
+      "src": "manual",
+      "url": "https://puzz.link/p?akari/15/15/zg..bn.cg.ck..lclch.g.jd.i.hbg.i.icgd.ibg.lcg.i.idg.h.i.hch7dh.h.k.l..m.bg.co2.zg",
+      "cols": 15,
+      "rows": 15,
+      "gridText": "- - - - - - - - - - - - - - -\n- - - - - - x x 1 - - - - - -\n- - - - x 2 - - - x 2 - - - -\n- - - x x - - - - - - 2 - - -\n- - - - - 2 - - - - x - x - -\n- - 3 - - x - - - x - - 1 - -\n- x - - - x - - - 2 - - - 3 -\n- x - - - 1 - - - x - - - - -\n- 2 - - - x - - - x - - - 3 -\n- - x - - x - - - x - - 2 - -\n- - 2 - 3 - - - - x - - x - -\n- - - x - - - - - - x x - - -\n- - - - x 1 - - - x 2 - - - -\n- - - - - - - 2 x - - - - - -\n- - - - - - - - - - - - - - -",
+      "updated": "2026-10-06T18:40:43.853Z"
+    },
+    "19": {
+      "src": "manual",
+      "url": "https://puzz.link/p?akari/10/10/rd.hcdrblbbcblbr.hbbap",
+      "cols": 10,
+      "rows": 10,
+      "gridText": "- - - - - - - - - -\n- - 3 - - x - - 2 -\n- 3 - - - - - - - -\n- - - - - - 1 - - -\n- - - - - 1 - - 1 -\n- 2 - - 1 - - - - -\n- - - 1 - - - - - -\n- - - - - - - - x -\n- 1 - - 1 - - 0 - -\n- - - - - - - - - -",
+      "updated": "2026-10-06T18:49:53.162Z"
+    },
+    "20": {
+      "src": "janko",
+      "url": "https://puzz.link/p?akari/17/17/h15bi6..i..q0cl.g.m..d5.g.gc0..i.o.o.ibkb.mabh.i8.i.iag.gcg.g.i.i.i5.idha.m.hak.idmbmcg.1.h56.gc...m6al2.q.cg..gbi.g1.h",
+      "cols": 17,
+      "rows": 17,
+      "source": "https://www.janko.at/Raetsel/Akari/399.a.htm",
+      "updated": "2026-10-06T19:15:33.881Z"
+    },
+    "21": {
+      "src": "janko",
+      "url": "https://puzz.link/p?akari/24/14/g2....g.hcg.gc.gdh.t.h.r.g.r..h50.pdg.icj1.hbg..h.gci2.p.gch.i..j.kbh.g..g.j.kah..iah6.p2ai.gd.cg.h0ajagbg.p07c..r7cpc.tah6.h7cg.h.g....a",
+      "cols": 24,
+      "rows": 14,
+      "source": "https://www.janko.at/Raetsel/Akari/070.a.htm",
+      "updated": "2026-10-06T19:26:37.800Z"
+    },
+    "22": {
+      "src": "manual",
+      "url": "https://puzz.link/p?akari/10/10/j.m.i.g6ccg.ibhck.i.h.i.m.j.iegc88.i.mbh",
+      "cols": 10,
+      "rows": 10,
+      "gridText": "- - - - x - - - - -\n- - x - - - x - 1 -\n2 - - 2 - - - x - -\n- 1 - - - - 2 - - -\n- - - - x - - - x -\n- x - - - x - - - -\n- - - x - - - - x -\n- - 4 - - - 2 - - 3\n- 3 - x - - - x - -\n- - - - - 1 - - - -",
+      "updated": "2026-10-06T19:34:26.292Z"
+    },
+    "24": {
+      "src": "manual",
+      "url": "https://puzz.link/p?akari/10/18/jdldciccbcbbibala.h.k.h.halablbeleb.kb.hclc.kb.hbbdbid.n.j",
+      "cols": 10,
+      "rows": 18,
+      "gridText": "- - - - 3 - - - - -\n- - - 3 - - 2 - - -\n- - 2 - - 2 - - 1 -\n- 2 - - 1 - - 1 - -\n- - - 1 - - 0 - - -\n- - - - - 0 - - x -\n- x - - - - - x - -\nx - - 0 - - - - - -\n- - 0 - - 1 - - - -\n- - - - 1 - - 4 - -\n- - - - - - 4 - - 1\n- - x - - - - - 1 -\n- x - - 2 - - - - -\n- - - 2 - - x - - -\n- - 1 - - x - - 1 -\n- 1 - - 3 - - 1 - -\n- - - 3 - - x - - -\n- - - - - x - - - -",
+      "updated": "2026-10-06T19:37:08.749Z"
+    },
+    "25": {
+      "src": "janko",
+      "url": "https://puzz.link/p?akari/14/14/6.jdg6.jag.ha...b.gb.gcj.jbr.h..qbm0.j1amao0.hbr.j.l.gb6a1.1.h.hbg.j5.i.j.gc",
+      "cols": 14,
+      "rows": 14,
+      "source": "https://www.janko.at/Raetsel/Akari/379.a.htm",
+      "updated": "2026-10-06T19:41:01.273Z"
+    },
+    "26": {
+      "src": "manual",
+      "url": "https://puzz.link/p?akari/12/12/bn6clcgcjcichcwckbybhchcicjcgcl7bnb",
+      "cols": 12,
+      "rows": 12,
+      "gridText": "1 - - - - - - - - - - 1\n- 2 - - - - - - - - 2 -\n- - 2 - - - - - - 2 - -\n- - - 2 - - - - 2 - - -\n- - - - - - - - - - - -\n- - - - 2 - - - - - - -\n1 - - - - - - - - - - -\n- - - - - - - - - - 1 -\n- - - 2 - - - - 2 - - -\n- - 2 - - - - - - 2 - -\n- 2 - - - - - - - - 2 -\n1 - - - - - - - - - - 1",
+      "updated": "2026-10-06T19:47:02.966Z"
+    },
+    "27": {
+      "src": "janko",
+      "url": "https://puzz.link/p?akari/14/14/hbh.j..ocg6dg6.vah.hbl0bq.i.bh8b.gbh..i.s..n.hah.v.gcg5agcm..jbhb",
+      "cols": 14,
+      "rows": 14,
+      "source": "https://www.janko.at/Raetsel/Akari/274.a.htm",
+      "updated": "2026-10-06T19:49:49.729Z"
+    },
+    "28": {
+      "src": "janko",
+      "url": "https://puzz.link/p?akari/24/14/j6ah...l5.j.hbg.i1acj20bhc.k7.hbgbi.h.gd.i2.kb5.i.i.l0.k.h.alb..ga.g5.h.h..g.hbj.h61.hc.g.gb6..h.n1c.k1.lag.i6a.k3bga.g.h.kbg.h.g.kdah.0.la1agdg.h.j6aj..ch.gbh",
+      "cols": 24,
+      "rows": 14,
+      "source": "https://www.janko.at/Raetsel/Akari/175.a.htm",
+      "updated": "2026-10-07T05:38:09.738Z"
+    },
+    "29": {
+      "src": "manual",
+      "url": "https://puzz.link/p?akari/10/10/kbi2.g1.g.b.i.h.lbi.1.j.1..j.1.k.lb.i.h16060bi.k",
+      "cols": 10,
+      "rows": 10,
+      "gridText": "- - - - - 1 - - - -\n- 2 x - 1 x - x 1 -\n- x - - - x - - x -\n- - - - - 1 - - - -\n- x 1 x - - - - x 1\nx x - - - - x 1 x -\n- - - - x - - - - -\n- 1 - - x - - - x -\n- 1 1 - 0 1 - 0 1 -\n- - - - x - - - - -",
+      "updated": "2026-10-06T20:02:27.177Z"
+    },
+    "30": {
+      "src": "manual",
+      "url": "https://puzz.link/p?akari/10/10/r6agb.i6.t5bg.h.i5br.gbg.hbg6bp",
+      "cols": 10,
+      "rows": 10,
+      "gridText": "- - - - - - - - - -\n- - 1 - 0 - - - 1 -\n- x - - - 1 - x - -\n- - - - - - - - - -\n- - 0 - 1 - - - x -\n- x - - - 0 - 1 - -\n- - - - - - - - - -\n- - x - 1 - - - x -\n- 1 - - - 1 - 1 - -\n- - - - - - - - - -",
+      "updated": "2026-10-06T20:03:55.025Z"
+    },
+    "31": {
+      "src": "manual",
+      "url": "https://puzz.link/p?akari/10/10/gahc.h.m.h.g.g.jcgbbk.jckb.ibh87.hbkb.hbhc",
+      "cols": 10,
+      "rows": 10,
+      "gridText": "- 0 - - - - 2 - - x\n- - x - - - - - - -\nx - - x - x - x - -\n- - 2 - - - 1 - - 1\n- - - - - - - x - -\n- - 2 - - - - - - -\n1 - - x - - - 1 - -\n- - 3 - 2 - x - - 1\n- - - - - - - 1 - -\nx - - 1 - - - - 2 -",
+      "updated": "2026-10-07T06:42:32.689Z"
+    }
+  }
 }
