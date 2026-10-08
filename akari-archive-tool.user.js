@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Daily Akari 存档工具
 // @namespace    local.akari.archive.tool
-// @version      1.1.1
+// @version      1.1.2
 // @description  查看 / 备份 / 修改 dailyakari.com 的本地点灯进度（localStorage: archiveCompletion）
-// @author       you
+// @author       smallC233
 // @match        https://dailyakari.com/*
 // @run-at       document-start
 // @noframes
@@ -16,6 +16,10 @@
 // @connect      raw.githubusercontent.com
 // @connect      cdn.jsdelivr.net
 // @connect      gitee.com
+// @homepageURL  https://github.com/smallC233/akari-shared
+// @supportURL   https://github.com/smallC233/akari-shared
+// @updateURL    https://raw.githubusercontent.com/smallC233/akari-shared/main/akari-archive-tool.user.js
+// @downloadURL  https://raw.githubusercontent.com/smallC233/akari-shared/main/akari-archive-tool.user.js
 // ==/UserScript==
 
 (function () {
@@ -248,7 +252,7 @@
   var PAD_KEY = 'padPortrait';        // 竖版题是否补成方形
   var SHARED_KEY = 'sharedRepo';      // 共享库仓库（"用户名/仓库名" 或完整 URL）
   var SHARED_FILE = 'data/puzzles.json';
-  var SCRIPT_VERSION = '1.1.1';
+  var SCRIPT_VERSION = '1.1.2';
 
   // ↓↓↓ 改成你自己的仓库（形如 "用户名/仓库名"，例如 "akari-user/akari-shared"）。
   //     填在这里，朋友装上这个脚本就自带你的默认数据源，不用自己配；
