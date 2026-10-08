@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Daily Akari 存档工具
 // @namespace    local.akari.archive.tool
-// @version      1.1.2
+// @version      1.1.3
 // @description  查看 / 备份 / 修改 dailyakari.com 的本地点灯进度（localStorage: archiveCompletion）
 // @author       smallC233
 // @match        https://dailyakari.com/*
@@ -252,7 +252,7 @@
   var PAD_KEY = 'padPortrait';        // 竖版题是否补成方形
   var SHARED_KEY = 'sharedRepo';      // 共享库仓库（"用户名/仓库名" 或完整 URL）
   var SHARED_FILE = 'data/puzzles.json';
-  var SCRIPT_VERSION = '1.1.2';
+  var SCRIPT_VERSION = '1.1.3';
 
   // ↓↓↓ 改成你自己的仓库（形如 "用户名/仓库名"，例如 "akari-user/akari-shared"）。
   //     填在这里，朋友装上这个脚本就自带你的默认数据源，不用自己配；
@@ -793,7 +793,8 @@
     '.btn.no{border-color:#8f4f57;color:#f0a0a8}',
     'input[type=text],input[type=search],select{padding:.35em .5em;border-radius:7px;border:1px solid #4a5568;background:#22262f;',
     '  color:#e9edf2;font:inherit;min-width:0}',
-    'input[type=text]{flex:1 1 200px}',
+    '.row input[type=text]{flex:1 1 200px}',
+    '.sec input[type=text],.sec input[type=search]{flex:0 0 auto;width:100%;height:auto}',
     '.warn{padding:.5em .6em;border-radius:8px;background:#3a2f16;border:1px solid #8a6d2a;color:#ffdd8a;font-size:12px}',
     '.hint{font-size:12px;color:#a9b4c4;align-self:center}',
     '.hint.bad{color:#f0a0a8}',
